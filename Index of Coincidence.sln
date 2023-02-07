@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Index of Coincidence", "Index of Coincidence\Index of Coincidence.csproj", "{958A2BB7-AC42-4C2C-A083-A39A50031A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958A2BB7-AC42-4C2C-A083-A39A50031A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958A2BB7-AC42-4C2C-A083-A39A50031A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958A2BB7-AC42-4C2C-A083-A39A50031A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958A2BB7-AC42-4C2C-A083-A39A50031A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45CD193D-86AB-4F3E-AA5D-FACB1604C442}
+	EndGlobalSection
+EndGlobal

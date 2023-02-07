@@ -1,0 +1,16 @@
+E:\C#\Index of Coincidence\Index of Coincidence\bin\Debug\Index of Coincidence.exe.config
+E:\C#\Index of Coincidence\Index of Coincidence\bin\Debug\Index of Coincidence.exe
+E:\C#\Index of Coincidence\Index of Coincidence\bin\Debug\Index of Coincidence.pdb
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\MainWindow.g.cs
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\App.g.cs
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence_MarkupCompile.cache
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence_MarkupCompile.lref
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\MainWindow.baml
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence.g.resources
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index_of_Coincidence.Properties.Resources.resources
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence.csproj.GenerateResource.cache
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence.csproj.CoreCompileInputs.cache
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence.exe
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence.pdb
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence.csproj.AssemblyReference.cache
+E:\C#\Index of Coincidence\Index of Coincidence\obj\Debug\Index of Coincidence.csproj.SuggestedBindingRedirects.cache

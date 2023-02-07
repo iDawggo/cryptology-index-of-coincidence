@@ -1,0 +1,24 @@
+﻿<Window x:Class="Index_of_Coincidence.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Index_of_Coincidence"
+        mc:Ignorable="d"
+        Title="Index of Coincidence" Height="500" Width="750">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="50,36,0,0" TextWrapping="Wrap" Text="Ciphertext" VerticalAlignment="Top"/>
+        <TextBlock x:Name="iocOutput" HorizontalAlignment="Left" Height="23" Margin="178,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="505"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="150" Margin="50,300,0,0" VerticalAlignment="Top" Width="650">
+            <TextBlock x:Name="scrllOutput" TextWrapping="Wrap" Text=""/>
+        </ScrollViewer>
+        <ScrollViewer HorizontalAlignment="Left" Height="100" Margin="50,57,0,0" VerticalAlignment="Top" Width="650">
+            <TextBox x:Name="scrllInput" TextWrapping="Wrap" Text="" TextChanged="scrllInput_TextChanged"/>
+        </ScrollViewer>
+        <TextBlock HorizontalAlignment="Left" Margin="50,279,0,0" TextWrapping="Wrap" Text="Period Output" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,200,0,0" TextWrapping="Wrap" Text="Index of Coincidence:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,244,0,0" TextWrapping="Wrap" Text="Test Period: " VerticalAlignment="Top"/>
+        <TextBox x:Name="tpdInput" HorizontalAlignment="Left" Height="23" Margin="125,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" TextChanged="tpdInput_TextChanged"/>
+        <Button x:Name="openFile" Content="Open Ciphertext File" HorizontalAlignment="Left" Margin="50,162,0,0" VerticalAlignment="Top" Click="openFile_Click"/>
+    </Grid>
+</Window>
